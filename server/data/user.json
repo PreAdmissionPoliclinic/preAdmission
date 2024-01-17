@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Master",
+    "username": "masterAdmin",
+    "password": "master123",
+    "role": "Master"
+  },
+  {
+    "name": "Dr.arifah Devi",
+    "username": "dr.devi",
+    "password": "mitra123",
+    "role": "Master"
+  },
+  {
+    "name": "Admin 1",
+    "username": "Admin",
+    "password": "admin123",
+    "role": "Admin"
+  }
+]
